@@ -1,0 +1,47 @@
+[
+    {
+        "1": "Tocmai ai obtinut o promovare foarte importanta la serviciu! Ai hotarat ca sarbatoresti cu o masa in oras alaturi de...",
+        "2": "Masa fiind joi seara...",
+        "3": "Ca sa marchezi ocazia, alegi:",
+        "4": "Ajungi la restaurantul cu pricina, unde este aglomerat si zgomotos.",
+        "5": "Comenzile sosesc dupa o asteptare foarte lunga, iar majoritatea sunt gresite. "
+    },
+    {
+        "1": {
+            "a": "un grup mare de prieteni!",
+            "b": "cativa prieteni apropiati",
+            "c": "cel mai bun prieten(a)"
+
+        },
+        "2": {
+            "a": "ai confirmat din timp numarul de persoane si ai facut rezervarea",
+            "b": "in dimineata cu pricina te ocupi de gasirea restaurantului",
+            "c": "nu iti faci probleme, sigur gasesti locuri undeva"
+
+        },
+        "3": {
+            "a": "un restaurant cu specific exotic, este momentul sa incerc ceva complet diferit",
+            "b": "un restaurant pe care imi doream sa-l incerc de mult!",
+            "c": "acelasi local pe care il cunosc de mult, imi place sa ma simt ca acasa."
+
+        },
+        "4": {
+            "a": "Dar imi place zgomotul facut de multi oameni care se simt bine!",
+            "b": "Cam puternic zgomotul, dar in curand nici n-o sa-l mai bag in seama.",
+            "c": "Ma gandesc sa gasesc alt loc, nu suport zgomotul si agitatia."
+
+        },
+        "5": {
+            "a": "Ma deranjeaza, dar nu voi spune nimic.",
+            "b": "Voi cauta o modalitate de a-i transmite feedback intr-un mod politicos la sfarsit.",
+            "c": "Imi strica dispozitia si consider normal sa ii comunic pe loc parerea despre calitatea serviciilor."
+        }
+    },
+    {
+        "1": "extraversie",
+        "2": "constiinciozitate",
+        "3": "deschidere",
+        "4": "stabilitate emotională",
+        "5": "agreabilitate"
+    }
+]

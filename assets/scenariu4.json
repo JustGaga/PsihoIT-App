@@ -1,0 +1,47 @@
+[
+    {
+        "1": "Te afli intr-o calatorie lunga cu trenul. Dupa câteva ore de stat pe scaun..",
+        "2": "Unul dintre calatorii din apropierea ta are un copil mic, de 5 ani.",
+        "3": "Intr-o calatorie lunga..",
+        "4": "La un moment dat, controlorul anunta intarziere de o ora. Vecinii tai mormaie, bombane si injura infundat.",
+        "5": "Pana la sfarsitul zilei trebuie sa trimit un document pe mail."
+    },
+    {
+        "1": {
+            "a": ".. sigur mi-am cunoscut toti vecinii de scaun. Imi place sa vorbesc cu oamenii. ",
+            "b": ".. am dat curs interactiunii, daca a fost inceputa de altcineva.",
+            "c": ".. nu am stat la povesti, nu ma simt in largul meu cu strainii."
+
+        },
+        "2": {
+            "a": "Sigur ma joc sau vorbesc cu el, iubesc copiii!",
+            "b": "Depinde, uneori imi face placere sa interactionez cu ei.",
+            "c": "Nu imi plac copiii, cel mai probabil nu il bag in seama."
+
+        },
+        "3": {
+            "a": "ma bucur de liniste si timp pentru citit sau ascultat muzica",
+            "b": "uneori ma plictisesc daca stau prea mult pe loc, dar nu imi fac mari probleme",
+            "c": "stiu ca o sa ma plictisesc de moarte, abia astept sa ajung odata"
+
+        },
+        "4": {
+            "a": "Zambesc amuzat. Vom ajunge cand vom ajunge.",
+            "b": "Nu imi convine deloc. Dar nu imi afecteaza asa de rau starea de spirit",
+            "c": "Sunt de acord cu ei! Nu e nimic mai rau decat sa ti se dea planurile peste cap."
+
+        },
+        "5": {
+            "a": "L-am terminat si trimis inainte sa ma urc in tren. Nu las lucrurile pe ultima suta.",
+            "b": "Am laptopul cu mine, trebuie sa fac ultimele verificari si apoi sa-l trimit.",
+            "c": "Noroc ca este lung drumul - am timp sa-l fac si sa-l trimit din tren!"
+        }
+    },
+    {
+        "1": "extraversie",
+        "2": "agreabilitate",
+        "3": "deschidere",
+        "4": "stabilitate emotională",
+        "5": "constiinciozitate"
+    }
+]

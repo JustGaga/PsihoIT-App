@@ -1,0 +1,47 @@
+[
+    {
+        "1": "Alarma te trezeste dintr-un somn profund. Te uiti incremenit la ceas si iti dai seama ca deja ai intarziat la o sedinta importanta.",
+        "2": "Pe holul blocului o vecina in varsta te roaga sa o ajuti cu plasele de cumparaturi. Are prea multe in maini si nu poate sa scoata cheile din geanta.",
+        "3": "Te sui in masina si pornesti. Ai la dispozitie 15 minute ca sa parcurgi un drum de cel putin 30. Te simti: ",
+        "4": "In fata drumul este blocat, o mare de masini stationare se intinde cat vezi cu ochii.",
+        "5": "Intr-un final ajungi. Intri si toate privirile se intorc catre tine."
+    },
+    {
+        "1": {
+            "a": "Pare ireal. Nu mi s-a intamplat niciodata asa ceva.",
+            "b": "E deja a doua oara in saptamana cand patesc asta. Sar repede din pat si ma imbrac.",
+            "c": "Din nou? Mai degraba gasesc o scuza perfecta decat sa ma grabesc prea tare."
+
+        },
+        "2": {
+            "a": "Ma opresc si o ajut.",
+            "b": "Ii explic faptul ca sunt in criza de timp si nu pot sa intarzii mai mult de atat.",
+            "c": "Continui sa fug cat de repede pot catre masina."
+
+        },
+        "3": {
+            "a": "Stresat, dar calm. Daca ma agit nu o sa ajung mai repede.",
+            "b": "Destul de speriat. Nu este suficient timp!",
+            "c": "Ingrozitor. Mi s-a strans stomacul si simt ca nu am cum sa evit un dezastru."
+
+        },
+        "4": {
+            "a": "Nu-mi displace sa stau in masina, am timp de reflectie.. dar acum nu e momentul",
+            "b": "Uneori statul in trafic nu e chiar insuportabil, cu muzica potrivita. Dar acum nu imi arde de nicio melodie.",
+            "c": "Oricum nu suport sa stau pe loc, ma plictisesc ingrozitor. Acum e si mai rau ."
+
+        },
+        "5": {
+            "a": "Zambesc si ma scuz printr-o gluma. Oricine poate sa o pateasca.",
+            "b": "Ma duc tinta la primul loc liber, fara sa scot un cuvant.",
+            "c": "Nu suport sa fiu in centrul atentiei, ma inrosesc si ma fastacesc puternic."
+        }
+    },
+    {
+        "1": "constiinciozitate",
+        "2": "agreabilitate",
+        "3": "stabilitate emotionala",
+        "4": "deschidere",
+        "5": "extraversie"
+    }
+]

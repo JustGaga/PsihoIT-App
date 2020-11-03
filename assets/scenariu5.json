@@ -1,0 +1,47 @@
+[
+  {
+    "1": "Un prieten te-a invitat la o piesa de teatru. Ti-a trimis biletele pe mail acum o saptamana si te-a rugat sa le printezi.",
+    "2": "Locurile va sunt ocupate de alte persoane, care nu doresc sa se mute. Alegeti sa va asezati in alta parte.",
+    "3": "Spectacolul este nonconformist. La un moment dat, unul dintre actori te alege ”voluntar” pentru o scena.",
+    "4": "Dupa finalul piesei, schimbi impresii cu prietenul tau. Spectacolul a fost unul abstract si nu esti sigur ca ai inteles tot.",
+    "5": "Iesind din sala de spectacol, treci pe langa un cuplu. Fara sa vrei, auzi ca au ramas fara baterie la telefoane si nu isi pot chema taxi."
+  },
+  {
+    "1": {
+      "a": "M-am documentat, sunt valide si in format digital. Le am pregatite pe telefon.",
+      "b": "Le-am printat înainte să plec de acasă.",
+      "c": "Probabil am uitat sa ma ocup de asta, dar sigur gasesc o rezolvare la fata locului."
+
+    },
+    "2": {
+      "a": "Sala e pe jumatate goala, putem sa ne alegem alte locuri fara probleme.",
+      "b": "Ma irita faptul ca nu putem sta pe locurile noastre, dar pot trece repede peste.",
+      "c": "O sa ma sacaie nesimtirea respectivilor. Nu suport situatii de genul."
+
+    },
+    "3": {
+      "a": "Accept bucuros, mi-ar placea sa ma sui pe scena in fata unui public! ",
+      "b": "Incerc sa imi ascund emotiile si sa fac fata cat de bine pot.",
+      "c": "Il refuz, nu poate sa ma oblige sa ma sui pe scena!"
+
+    },
+    "4": {
+      "a": "Imi plac formele de arta abstracte, chiar daca uneori nu inteleg pe deplin.",
+      "b": "Nu este stilul meu preferat, dar cred ca am ceva de castigat din orice.",
+      "c": "Prefer povestile mai clare, cu cap si coada, in urma carora nu sunt confuz."
+
+    },
+    "5": {
+      "a": "Daca mergem in directii similare, ma ofer sa ii duc cu masina.",
+      "b": "Ma ofer sa le chem eu o masina.",
+      "c": "Cred ca se pot descurca si fara ajutorul meu"
+    }
+  },
+  {
+    "1": "constiinciozitate",
+    "2": "stabilitate emotionala",
+    "3": "extraversie",
+    "4": "deschidere",
+    "5": "agreabilitate"
+  }
+]

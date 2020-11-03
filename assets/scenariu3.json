@@ -1,0 +1,47 @@
+[
+    {
+        "1": "Zilnic, ca sa ajungi la biroul tau, treci pe langa mai multi colegi din departamente diferite.",
+        "2": "Pe hol te intalnesti cu o colega vorbareata. Se apropie si incepe sa iti spuna aceleasi povesti ca de fiecare data.",
+        "3": "Te asezi la birou. Vrei sa te apuci de prima sarcina a zilei..",
+        "4": "Din greșeală ajunge la tine o sarcină atipică, ce in mod normal nu este responsabilitatea ta. O poti rezolva, dar te vei lovi de probleme si situatii noi.",
+        "5": "Cand se apropie sfarsitul programului, te ia seful deoparte si iti explica ca ai gestionat gresit o situatie saptamana trecuta."
+    },
+    {
+        "1": {
+            "a": "Le zambesc si ii salut pe toti. ",
+            "b": "Daca se nimereste sa fac contact vizual, inclin politicos din cap.",
+            "c": "Am castile in urechi si privirea inainte, nu interactionez cu nimeni."
+
+        },
+        "2": {
+            "a": "O ascult incercand sa par interesat.",
+            "b": "Ascult un minut, din politete, apoi ma scuz spunand ca ma grabesc.",
+            "c": "Invoc un motiv pentru care nu ma pot opri la palavre si imi continui drumul."
+
+        },
+        "3": {
+            "a": "Verific in calendar programul si timpul alocat fiecarei activități. Nu imi sta in fire sa muncesc dezordonat.",
+            "b": "Stiu de ce trebuie sa ma apuc. Nu primesc niciun premiu pentru cel mai ordonat birou, dar sunt eficient. ",
+            "c": "Caut printre hartii, mailuri si documente deschise ca sa gasesc unde am ramas ziua trecuta."
+
+        },
+        "4": {
+            "a": "Imi plac sarcinile care necesită noi abordari.",
+            "b": "Uneori imi place sa rup rutina.. Sa vad daca ma pricep sa o rezolv.",
+            "c": "Semnalez greseala si o trimit catre cine trebuie. Nu are sens sa-mi bag nasul in arii noi."
+
+        },
+        "5": {
+            "a": "Accept critica si imi place sa inteleg ce am gresit! Plec impacat!",
+            "b": "Ma deranjeaza critica, dar daca este constructiva voi trece in scurt timp peste.",
+            "c": "O sa ma framante faptul ca am gresit. Nu suport sa fiu criticat."
+        }
+    },
+    {
+        "1": "extraversie",
+        "2": "agreabilitate",
+        "3": "constiinciozitate",
+        "4": "deschidere",
+        "5": "stabilitate emotională"
+    }
+]

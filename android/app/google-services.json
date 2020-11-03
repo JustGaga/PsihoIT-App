@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089436948663",
+    "firebase_url": "https://psihoit-53efe.firebaseio.com",
+    "project_id": "psihoit-53efe",
+    "storage_bucket": "psihoit-53efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089436948663:android:fde277a55ec31f5a16d532",
+        "android_client_info": {
+          "package_name": "com.example.psiho_it_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089436948663-hhj1tmvn04jor8favmn963s4t8c8ch8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGp0Ypo_zicVr9E4ZdMlYOaUf7wV_r2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089436948663-hhj1tmvn04jor8favmn963s4t8c8ch8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
